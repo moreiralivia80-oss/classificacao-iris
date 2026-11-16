@@ -105,13 +105,7 @@ pytest
 - **Validar entradas** antes de usar um modelo: ele sempre devolve uma resposta, mesmo para medidas impossíveis.
 - Salvar o modelo junto com as informações necessárias para usá-lo depois (nomes das colunas, classes, limites e versão do Scikit-Learn).
 
-## Próximos passos
-
-- [ ] Disponibilizar o modelo numa API REST com Flask
-- [ ] Criar uma página simples para testar a classificação no navegador
-- [ ] Aplicar o mesmo processo num dataset maior e mais desafiador
-
-## Autora
+# autora e git hub
 
 **Lívia Moreira Teixeira**, estudante de Análise e Desenvolvimento de Sistemas.
 [GitHub](https://github.com/moreiralivia80-oss)

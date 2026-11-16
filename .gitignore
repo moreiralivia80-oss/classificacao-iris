@@ -1,0 +1,19 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Arquivos gerados pelo Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Configurações do editor
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db

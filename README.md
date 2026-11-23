@@ -2,6 +2,8 @@
 
 Modelo de machine learning que identifica a espécie de uma flor Iris (*setosa*, *versicolor* ou *virginica*) a partir de 4 medidas da flor. O projeto cobre o processo completo: análise exploratória, escolha do modelo com validação cruzada, avaliação, salvamento do modelo e um script de linha de comando para classificar flores novas.
 
+![Notebook com a análise exploratória das medidas das flores](docs/images/1795455150722_image.png)
+
 ## Resultados
 
 | Etapa | Resultado |
